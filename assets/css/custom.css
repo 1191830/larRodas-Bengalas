@@ -1,0 +1,144 @@
+.buttons-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+.btn-form {
+    margin-left: 15px;
+}
+
+.datepicker.dropdown-menu {
+    z-index: 9999 !important;
+}
+
+.timerpicker-custom {
+    width: 100%;
+}
+
+.help-block {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.time-interval {
+    width: 100%;
+}
+
+.date-search {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.pl-5 {
+    padding-left: 5px;
+}
+
+.pl-10 {
+    padding-left: 10px;
+}
+
+.pl-15 {
+    padding-left: 15px;
+}
+
+.pr-5 {
+    padding-right: 5px;
+}
+
+.pr-10 {
+    padding-right: 10px;
+}
+
+.pr-15 {
+    padding-right: 15px;
+}
+
+.pt-5 {
+    padding-top: 5px;
+}
+
+.pt-10 {
+    padding-top: 10px;
+}
+
+.pt-15 {
+    padding-top: 15px;
+}
+
+.pb-5 {
+    padding-bottom: 5px;
+}
+
+.pb-10 {
+    padding-bottom: 10px;
+}
+
+.pb-15 {
+    padding-bottom: 15px;
+}
+
+.ml-5 {
+    margin-left: 5px;
+}
+
+.ml-10 {
+    margin-left: 10px;
+}
+
+.ml-15 {
+    margin-left: 15px;
+}
+
+.mr-5 {
+    margin-right: 5px;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+.mr-15 {
+    margin-right: 15px;
+}
+
+.mt-5 {
+    margin-top: 5px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-15 {
+    margin-top: 15px;
+}
+
+.mb-5 {
+    margin-bottom: 5px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+.ul-active{
+    display: block!important;
+}
+
+ul.sub a {
+    padding-left: 10px !important;
+}
+
+ul.sub a.active {
+    color: #ffffff!important;
+}
+
+.has-error{
+    border: 2px solid red;
+}
